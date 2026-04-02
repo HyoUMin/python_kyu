@@ -43,7 +43,7 @@ def search_incruit(keyword):
                 "title": title,
                 "company": company,
                 "location": location,
-                "herf": href    
+                "href": href    
             }
 
             jobs.append(job_data)
